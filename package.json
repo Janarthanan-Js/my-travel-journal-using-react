@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "type":"module",
-    "dev":"vite"
+    "type": "module",
+    "dev": "vite",
+    "build": "vite build"
   },
   "keywords": [],
   "author": "",
