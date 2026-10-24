@@ -17,7 +17,7 @@ export function App(){
         <Header
         img={
             {
-                src:"../images/globe.png",
+                src:"/images/globe.png",
                 alt:"Globe image"
             }
         }
